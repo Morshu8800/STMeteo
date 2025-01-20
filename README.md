@@ -17,4 +17,4 @@
 # Зачем нужен этот проект?
   - Во-первых: для тех, кто следит за атмосферным давлением и комфортом в комнате/помещении;
   - Во-вторых: для моего опыта в разработке на мк от ST Microelectronics
-![Sample by Morshu8800 ](https://github.com/Morshu8800/Stm32_74HC595_HAL_Library/blob/main/scheme.png)
+![Sample by Morshu8800 ](https://github.com/Morshu8800/STMeteo/main/sample.png)
