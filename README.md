@@ -18,4 +18,4 @@
   - Для тех, кто следит за атмосферным давлением и комфортом в комнате/помещении;
   - Для моего опыта в разработке на мк от ST Microelectronics (Stm32)
 # Пример готового проекта
-![Sample by Morshu8800 ](https://github.com/Morshu8800/STMeteo/blob/main/sample.png)
+![Sample by Morshu8800 ](https://github.com/Morshu8800/STMeteo/blob/main/Sample.png)
